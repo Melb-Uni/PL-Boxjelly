@@ -14,7 +14,7 @@ The current development repository URL: https://github.com/visual-heuristics/fro
 
 [4.0 Using the system](#4.0)
  
-[5.0 Architecture Diagrams](#5.0)
+[5.0 Architecture and Design](#5.0)
 
 [6.0 Change Log](#6.0)
 
