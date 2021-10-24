@@ -18,7 +18,7 @@ The current development repository URL: https://github.com/visual-heuristics/fro
 
 [6.0 Change Log](#6.0)
 
-[7.0 Quality Assurance](#7.0)
+[7.0 Demo](#7.0)
 
 <h1 id="1.0"> 1.0 Project Overview </h1>
 
@@ -274,10 +274,6 @@ https://confluence.cis.unimelb.edu.au:8443/display/VH/Developer+Information+Fron
 ### 21/10/2021
 * Updated tests
 
-<h1 id="7.0"> 7.0 Quality Assurance </h1>
+<h1 id="7.0"> 7.0 Demo </h1>
 
-
-
-### Test Document
-
-https://confluence.cis.unimelb.edu.au:8443/display/VH/Testing+Document
+https://morning-ridge-78538.herokuapp.com/
