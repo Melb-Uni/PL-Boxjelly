@@ -2,6 +2,8 @@
 
 planimation is a modular and extensible open source framework to visualize sequential solutions of planning problems specified in PDDL. planimation has a preliminary declarative PDDL-like animation profile specification, expressive enough to synthesise animations of arbitrary initial states and goals of a benchmark with just a single profile.(https://planimation.github.io/documentation/).
 
+The current development repository URL: https://github.com/visual-heuristics/frontend-js
+
 
 # Table of Contents
 [1.0 Project Overview](#1.0)
